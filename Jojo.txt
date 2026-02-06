@@ -414,3 +414,60 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TwentyFourNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f45e69507f0f5aa1a6e82374efb0af25&key=f84348219837769feb5a26a7b1cd31dc
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="242" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Infotainment",Discovery
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1025acf964795689982726e2d16a73c5:d88575df3e3d1adb7a82da65f0000aa6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="3444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=8d2754e59a025dd2a9fd98c15fe8e45d&key=b13562dae0e15973a2ea562c76ce292f
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryHDHin_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="3453" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="Infotainment",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=d64ea6e8cac8550c9befa8ee6d9512c8&key=292c06d344e62d309bd02fd243a1c0e2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryScienceHin_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="541" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6975ebba1045165a9223a938b9e7974:2f63fb18980f4b851fc222a71ed85bbd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Turbo_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="3451" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=6e56dee54bd4596b8ba528012fd3c7e7&key=c10f10e9b4926b13a6627c99ec0fae1c
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/output/index.mpd
+
