@@ -488,3 +488,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 #EXTVLCOPT:http-#EXTVLCOPT:http-user-agent=StreamFlex/7.1.3 (Linux;Android 13) StreamFlex/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6&xxx=%7Ccookie=__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6
+
+#EXTINF:-1 tvg-id="443" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Malayalam",Asianet HD
+https://portal2m3u.cr7x.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vdGF0YXR2LmNjIiwibWFjIjoiMDA6MUE6Nzk6MDA6Mjg6RTciLCJzbiI6Ijg5QTdDMEZGNEI1MjgiLCJkZXZpY2UiOiJGRkQ5QjdEQ0Q5N0NGNUJCMkM0Q0Q1NjQ4QzMzNzA1MDg3N0FGQ0U1NjU2MzFDQkI1RDZFQUVGQUY3MDFBNTBFIn0=/11943.m3u
