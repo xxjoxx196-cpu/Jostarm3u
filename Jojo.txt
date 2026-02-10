@@ -493,4 +493,5 @@ https://portal2m3u.cr7x.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vdGF0YXR2LmNjIiwibW
 
 
 
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l_high.jpg" tvg-id="1153" group-title="Movies" ,Asianet Movies
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/dash/Star_Sports2_Tamil_HD_BTS-video=1272000.dash?__hdnea__=st=1770641732~exp=1770728132~acl=/*~hmac=4a8ba65bedd4972c04679a6fede7cda13f64fd25a8629cb7eccfedffb2d7934a
