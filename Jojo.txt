@@ -8,7 +8,8 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=438370e98be35e618650b4fde6f7bcee&key=8af903db53e7b69e6e1c9a04711ebd62
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd?__hdnea__=st=1771011362~exp=1771097762~acl=/*~hmac=2110e29dfaa34acd4bf61ac879fc4a5075b56abecc504448aeb51dab8a7b2169
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd?__hdnea__=st=1771097762~exp=1771184162~acl=/*~hmac=50a13d0d9f2107653ef128e5372b526cc1014a40fdb6a9ce0f803cd8cb227dfc
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
